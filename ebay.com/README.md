@@ -1,1 +1,1 @@
-Showing eBay's Daily Deals
+Showing content of eBay's different sections
